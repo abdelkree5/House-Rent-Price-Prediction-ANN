@@ -21,7 +21,7 @@ A production-ready Deep Learning application that predicts house rental prices u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mstfyshrqawy520-alt/House-Rent-Price-Prediction-ANN.git
+git clone https://github.com/abdelkree5/House-Rent-Price-Prediction-ANN.git
 cd House-Rent-Price-Prediction-ANN
 ```
 
@@ -55,4 +55,4 @@ streamlit run ui.py
 *   **Deployment**: Ready for Render/Streamlit Cloud
 
 ---
-Developed by **Mostafa Elsharqawi**
+Developed by **abdelkreem abdelhaleem frahat**
